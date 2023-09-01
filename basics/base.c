@@ -3,14 +3,20 @@
 //
 #include <stdio.h>
 
+void test();
 void base();
 void pointer();
 
 int main()
 {
+    test();
+    return 0;
+}
+
+void test()
+{
 //    base();
     pointer();
-    return 0;
 }
 
 // 基础
