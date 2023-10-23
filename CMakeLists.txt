@@ -3,4 +3,6 @@ project(C_learning C)
 
 set(CMAKE_C_STANDARD 90)
 
-add_executable(C_learning basics/base.c basics/base.c)
+add_executable(C_learning
+        code/HelloWorld.c
+)
