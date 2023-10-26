@@ -1,4 +1,4 @@
-/* print1.c - 演示printf()的一些特性 */
+/* print1.c -- 演示printf()的一些特性 */
 #include <stdio.h>
 
 int main(void)
